@@ -1,8 +1,8 @@
 step,object,x,y,zoom,page,question,answer,alt_text,layer1_button,layer1_content,layer2_button,layer2_content,clip_start,clip_end,loop
 paso,objeto,x,y,zoom,pagina,pregunta,respuesta,texto_alt,boton1,contenido1,boton2,contenido2,inicio_clip,fin_clip,bucle
 1,greater-los-angeles,0.7460877952144442,0.23265544004694563,2.8125,," What is emphasized on the map? ","There is emphasis placed on the big attractions of LA, what people think of when the hear the city of angels.",,,,,,,,
-2,greater-los-angeles,0.13889494336282082,0.39406522111017955,11.455653306161958,,"What is really small on the Map? ","The Satwiwa Sacred Indian grounds are drawn very small in comparison to the Third Street Promenade in Santa Monica. ",,,,,,,,
-3,greater-los-angeles,0.1226863802961463,0.3061531552723227,8.916100448255998,,"How does the artist depict each neighborhood? ","The artist seems to depict it as their stereotypes, such as BelAir being me with a mansion and palm trees in front of their gated homes.",,,,,,,,
+2,greater-los-angeles,0.1418317519998005,0.3414766778020303,11.455653306161958,,"What is really small on the Map? ","The Satwiwa Sacred Indian grounds are drawn very small in comparison to the Third Street Promenade in Santa Monica. ",,Learn more,blank_template-think-about.md,,,,,
+3,greater-los-angeles,0.1226863802961463,0.3061531552723227,5.9737873003315185,,"How does the artist depict each neighborhood? ","The artist seems to depict it as their stereotypes, such as BelAir being me with a mansion and palm trees in front of their gated homes.",,,,,,,,
 4,greater-los-angeles,0.5,0.5,1,,"Who is this map made for, who will realistically see it? ","    - I believe this map was made for locals of LA as well as other who wish to visit LA as the popular attractions are outlined as well as some insight as to what you might find at these attractions as well as a bit of the artist’s POV of LA. ",,,,,,,,
 5,greater-los-angeles,0.5,0.5,1,,"Is this map accurate for its time? "," This pictorial map is title “Greater Los Angeles” and I believe it was done in this cartoon style in order to engage viewers and able to place emphasis on cultural landmarks. 
 ",,,,,,,,
