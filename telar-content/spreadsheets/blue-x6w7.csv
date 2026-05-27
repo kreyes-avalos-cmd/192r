@@ -1,5 +1,8 @@
 step,object,x,y,zoom,page,question,answer,alt_text,layer1_button,layer1_content,layer2_button,layer2_content,clip_start,clip_end,loop
 paso,objeto,x,y,zoom,pagina,pregunta,respuesta,texto_alt,boton1,contenido1,boton2,contenido2,inicio_clip,fin_clip,bucle
-1,hivaids-drugs-timeline,0.49334227205665127,0.2094590724399731,3.0000000000000004,,"Daily Nexus nov. 18,1991 ","Doctor Anthony Fauci says that the best hope is that by 2000, there would be another drug like retrovir and DDI to have fewer toxic side effects. The doctor does not believe that a vaccine is possible at all and said that the realistic course of AIDS treatment is in the distant future. ",,,,,,,,
-2,hivaids-drugs-timeline,0.4836396299982979,0.4236825407503749,3.1339031339031345,,,,,,,,,,,
-3,hivaids-drugs-timeline,0.5,0.5,1,,,,,,,,,,,
+1,hivaids-drugs-timeline-1,0.4939401345772783,0.2282687976299059,3.0000000000000004,,"Daily Nexus nov. 18,1991 ","Doctor Anthony Fauci says that the best hope is that by 2000, there would be another drug like retrovir and DDI to have fewer toxic side effects. The doctor does not believe that a vaccine is possible at all and said that the realistic course of AIDS treatment is in the distant future. ",,Learn more,blue-x6w7-learn-more.md,,,,,
+2,hivaids-drugs-timeline-1,0.44321754999587104,0.3040248367278754,4.700854700854702,,,,,,,,,,,
+3,hivaids-drugs-timeline-1,0.5548223203396732,0.5151105509930739,4.700854700854702,,,,,,,,,,,
+4,hivaids-drugs-timeline-1,0.44745532609901606,0.7210523813410095,4.700854700854702,,,,,,,,,,,
+5,hivaids-drugs-timeline-1,0.5516518228971335,0.8765650944991222,4.700854700854702,,,"In present day there is still no cure for HIV/AIDS, however there are medicines to control the infection. 
+[[art-antiretroviral-therapy]] ",,,,,,,,
