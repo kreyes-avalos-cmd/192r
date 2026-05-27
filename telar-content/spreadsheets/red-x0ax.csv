@@ -1,5 +1,7 @@
 step,object,x,y,zoom,page,question,answer,alt_text,layer1_button,layer1_content,layer2_button,layer2_content,clip_start,clip_end,loop
 paso,objeto,x,y,zoom,pagina,pregunta,respuesta,texto_alt,boton1,contenido1,boton2,contenido2,inicio_clip,fin_clip,bucle
-1,aid-s-inscribed,0.7256138453254721,0.0801164188626471,6.100664767331434,,,,,,,,,,,
-2,aid-s-inscribed,0.5133976750539471,0.3567872575455975,1.728,,,,,,,,,,,
-3,aid-s-inscribed,0.6985295645433531,0.8367335354157196,4.904934472934474,,,,,,,,,,,
+1,aid-s-inscribed,0.7256138453254721,0.0801164188626471,6.100664767331434,,"Daily Nexus feb. 10,1993","The Santa Barbara High School District was approached by the AIDS Education program, which visited different schools doing assemblies in order ot spread awareness of the AIDS Epidemic.  This assembly proposed was a theater performance sponsored by the Kaiser Permanente Health Group. Word of this news caused pushback from parents. As a response, this assembly required a permission slip to be signed by parents in order to attend. ",,Learn more,red-x0ax-assembly-attendance.md,,,,,
+2,aid-s-inscribed,0.5133976750539471,0.3567872575455975,1.728,,"Daily Nexus (Feb. 10,1993) ","News broke of a surgical technician who was cut by a scapel during a breast implant surgery on a patient who did not disclose she had AIDS. A lawsuit transpired, and the Surgical Technician was awarded $102,500. The surgical technician tested negative for aids after careful monitoring,g and the court found the defendant guilty, ty stating that the ""Patient must pay damages for concealing the AIDS virus"".  ",,Learn more,red-x0ax-current-day-value.md,,,,,
+3,aid-s-inscribed,0.6985295645433531,0.8367335354157196,4.904934472934474,,"Daily Nexus (Nov. 18, 1991) ","Homosexuals Carry the stigma of AIds as ‘gay disease’ by Beorah Robiglio 
+“The devastation of the disease immobilized the gay community when it first started to appear. (But) Veterans have learned to cope. As a result, the gay community has become the most verbal and activist-oriented group in bringing attention to the disease in reaction to the effect it has had on their lives.”
+",,,,,,,,
