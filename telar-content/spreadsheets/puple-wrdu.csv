@@ -1,7 +1,7 @@
 step,object,x,y,zoom,page,question,answer,alt_text,layer1_button,layer1_content,layer2_button,layer2_content,clip_start,clip_end,loop
 paso,objeto,x,y,zoom,pagina,pregunta,respuesta,texto_alt,boton1,contenido1,boton2,contenido2,inicio_clip,fin_clip,bucle
-1,aids-prevention-team,0.5005392180274042,0.7090348573865054,1.7184134110116092,,,,,,,,,,,
-2,epidemic-spreads-among,0.5,0.5,1,,,,,,,,,,,
+1,aids-prevention-team,0.5005392180274042,0.7090348573865054,1.7184134110116092,,,"During the AIDS epidemic, women were often overlooked. During this time, HIV/AIDS research and treatment focused mainly on men. Activists at the time accused the FDA of being silent on women's needs. ",,Learn more,puple-wrdu-learn-more.md,,,,,
+2,women-in-aids,0.5076815442938336,0.24286936757917058,2.985983999999999,,,"What scientists and health professionals began to discover was that HIV increased cervical cancer risks in women. This was important because it was something that previously was not known, since most studies focused mainly on men, which resulted in this information not being discovered until it began to affect a lot of people. By the 1990s, HIV/AIDS cases among women were continuing to rise; the epidemic was no longer only affecting men. ",,,,,,,,
 3,women-in-aids,0.4846977131270191,0.7827947281810865,2.9859839999999993,,,,,,,,,,,
 4,thai-woman-talks,0.7153769716627981,0.4129542458740549,1.7279999999999998,,,,,,,,,,,
 5,you-wont-get,0.5,0.5,1,,,,,,,,,,,
