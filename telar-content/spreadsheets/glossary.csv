@@ -1,5 +1,5 @@
 term_id,title,definition,related_terms
 id_término,titulo,definición,términos_relacionados
-telar,ART (Antiretroviral Therapy),"[Antiretroviral therapy (ART)](https://my.clevelandclinic.org/health/treatments/antiretroviral-therapy) is a combination of medications that treat HIV. While ART does not cure HIV, it reduces the levels of HIV in your body. This allows your immune system to remain healthy and lowers the risk of serious infections. ",
-untitled-term,Transmittable,"In terms of HIV, transmittable referes to causing or allowing the spread of the infection. If someone is transmittable it means that person can infect others. 
+art-antiretroviral-therapy,ART (Antiretroviral Therapy),"[Antiretroviral therapy (ART)](https://my.clevelandclinic.org/health/treatments/antiretroviral-therapy) is a combination of medications that treat HIV. While ART does not cure HIV, it reduces the levels of HIV in your body. This allows your immune system to remain healthy and lowers the risk of serious infections. ",
+transmittable,Transmittable,"In terms of HIV, transmittable referes to causing or allowing the spread of the infection. If someone is transmittable it means that person can infect others. 
 [https://www.merriam-webster.com/dictionary/transmittable](https://www.merriam-webster.com/dictionary/transmittable)",
